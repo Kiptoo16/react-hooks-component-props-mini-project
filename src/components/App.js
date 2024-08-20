@@ -6,7 +6,7 @@ import About from "./About";
 
 console.log(blogData);
 
-function App() {
+function App() { 
   return (
     <div className="App">
       You're on your own from here! Follow the deliverables; test things out in
